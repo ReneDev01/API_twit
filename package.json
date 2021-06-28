@@ -1,0 +1,28 @@
+{
+  "name": "twit-api",
+  "version": "1.0.0",
+  "description": "serveur http pour api rest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReneDev01/API_twit.git"
+  },
+  "keywords": [
+    "server",
+    "http",
+    "api",
+    "rest"
+  ],
+  "author": "ReneDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReneDev01/API_twit/issues"
+  },
+  "homepage": "https://github.com/ReneDev01/API_twit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
